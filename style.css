@@ -24,7 +24,6 @@ body {
 }
 
 #privacy-body {
-    text-align: justify;
     max-width: max-content;
     padding: 20px;
     box-sizing: border-box;
@@ -34,6 +33,6 @@ body {
 }
 
 li {
-    line-height: 200%;
+    line-height: 1.6;
 }
 
